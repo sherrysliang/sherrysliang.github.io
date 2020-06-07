@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "About"
-permalink: /About/
+permalink: /about/
 comments: true
 author_profile: true
 ---
 
 
-I am currently a Data Scientist at Starcom. In my spare time, I like hiking, cooking and watarcolor painting.
+I am currently a Data Scientist at Starcom. In my spare time, I like hiking, cooking and watarcolor painting. My best friends are my husband and my dog Oskar.
 
 
 ### Education:
